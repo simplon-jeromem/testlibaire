@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    box-sizing: border-box;
+}
+*,*:before,*:after{
+   box-sizing: inherit; 
+}
+//les marge et les padding sont pas ajoutée aux tailles defint pour les divs\\//
+body{
+    font-family: Geneva,Arial,sans-serif;
+}
